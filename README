@@ -1,0 +1,28 @@
+README
+When and where to protect forests
+Ian Luby, Steve J. Miller, Stephen Polasky
+Contact: steve.j.miller@colorado.edu
+
+System requirements:
+- Operating Systems: Tested on Mac OS 10.15.5 and Windows 10 Enterprise
+- Code requires R. Tested on R 4.0.4 and RStudio 1.1.456 (Mac) and R 4.1.3 and RStudio 1.4.1717 (Windows)
+- No non-standard hardware is required
+
+Installation guide:
+- Required R packages (dependencies) are as loaded in individual .R files. All are available via CRAN and can be installed using typical install.packages('___') syntax. Installation should take under 5 minutes.
+- Once required dependencies are installed, no further installation is required
+
+Demo:
+- Run the file code/Demo.R
+- Expected output: a budget allocation matrix with zeros except for entries of 10,000 in the 9th row of the matrix.
+- Expected run time for demo on a "normal" desktop computer: < 1 min
+
+Instructions for use:
+- To make figures, tables, and in text #s using provided .Rdata files containing the results of model output:
+-- Run code/MakeMainTextFigures.R to make figures and #s in the main text.
+-- Run code/MakeSIFigures.R to make figures & tables in the SI
+
+- To run optimizations underlying main results:
+*** Note: a single optimization using a single parameterization can take many hours to run. ***  
+-- To run optimizations underlying results in the main text, run code in code/RunMainTextModels.R
+-- To run optimizations underlying results in the SI, run code in code/RunSIModels.R
