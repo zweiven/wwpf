@@ -1,0 +1,815 @@
+Ecoregion,# species,Initial cost ($/ha),SAR alpha,Initial forest (kha),Initial prot. forest (kha),Deforest. rate (%),Conservation end period,Overall end period,Total spend (M$),Expected new spp. conserved
+Louisiade Archipelago Rain Forests,3200,353.41,48.97,119.1,0,0.19,1,50,52.2,3196
+Solomon Islands Rain Forests,4800,258.05,38.73,2924,29.4,0.36,6,50,953.4,2896
+Huon Peninsula Montane Rain Forests,5500,232.93,51.79,1350.5,48,0.17,5,50,375.2,2687
+Southern Anatolian Montane Conifer And Deciduous Forests,4000,2513.07,43.01,695.6,0.7,0.48,50,50,1195.3,2943
+Southeastern Papuan Rain Forests,5500,166.38,37.97,6379.9,228,0.16,50,50,991.7,2656
+Eastern Anatolian Deciduous Forests,2800,3945.48,46.09,82.7,0,0.06,50,50,113.9,2530
+Hainan Island Monsoon Rain Forests,3000,6302.69,31.93,732,0,0.95,50,50,528.8,2116
+Caqueta Moist Forests,9000,73.14,51.28,16646.2,5916.1,0.39,5,50,1007.4,1727
+Northeastern Himalayan Subalpine Conifer Forests,2500,220.1,24.36,1139.6,5.9,0.09,15,50,296.3,1626
+New Britain-New Ireland Montane Rain Forests,2500,23.15,24.43,1121.5,6.1,0.09,6,50,31.5,1621
+Solimoes-Japur Moist Forests,7000,51.26,40,16421.2,4586,0.03,9,50,730.8,1579
+Bajo Dry Forests,4200,6291.03,59.64,173.2,17.5,0.04,50,50,1121.9,1544
+Central China Loess Plateau Mixed Forests,3100,3493.82,24.22,3432.1,0,0.09,50,50,289.5,1650
+Guianan Moist Forests,8000,65.43,37.4,44771.3,15599.3,0.09,50,50,2078.4,1520
+Negro-Branco Moist Forests,6500,76.17,36.16,18776.6,5837.8,0.11,12,50,1197.2,1362
+Chiapas Montane Forests,3800,4741.46,45.77,394.6,22.5,0.93,46,50,1066.3,1633
+Chin Hills-Arakan Yoma Montane Forests,2600,429.3,22.91,1882.7,83.2,0.46,18,50,849.4,1213
+Sierra Madre Del Sur Pine-Oak Forests,4200,1018.45,34.75,2580.6,50.7,0.13,50,50,497.7,1493
+Admiralty Islands Lowland Rain Forests,2000,281.03,28.19,179.6,2.8,0.22,1,50,62,1133
+Magdalena-Urab Moist Forests,4500,3109.14,37.63,2444.1,216.1,1.16,50,50,2243.9,1258
+Sonoran-Sinaloan Transition Subtropical Dry Forest,1700,312.91,22.98,221.6,4.5,0.06,15,50,81.1,922
+Juru-Purus Moist Forests,5000,29.65,26.52,23800.6,8731,0.03,24,50,524.9,910
+Choc-Darin Moist Forests,9000,828.35,61.61,6654.2,872.8,0.17,50,50,711.6,1331
+Orissa Semi-Evergreen Forests,1400,3811.15,26.25,43.1,0.3,0.08,8,50,198.3,871
+Central Congolian Lowland Forests,3600,47.53,17.4,37960.8,8334.7,0.37,39,50,1343.2,946
+Anatolian Conifer And Deciduous Mixed Forests,2400,5959.54,22.9,1265.1,2.9,0.4,50,50,880.5,1026
+Sierra Madre Occidental Pine-Oak Forests,4400,449.99,31.63,5208.8,739.8,0.04,50,50,864.1,1206
+Yunnan Plateau Subtropical Evergreen Forests,6000,3896.58,42.78,5424.5,32.1,0.29,50,50,530.3,1147
+Chimalapas Montane Forests,2500,119.46,36.96,141.6,19.9,0.22,1,14,18.1,820
+Madagascar Lowland Forests,6000,750.48,42.93,5331.1,1535.3,2.45,21,50,1824.8,1234
+Northern Anatolian Conifer And Deciduous Forests,2200,1214.86,20.38,1464.2,0,0.11,50,50,10.6,867
+Chilean Matorral,2600,5610.33,26.53,904.5,26.3,2.58,28,50,1507.7,955
+Altai Montane Forest And Forest Steppe,2000,88.09,18.19,1607.8,136.7,0.05,8,50,156.7,779
+Andaman Islands Rain Forests,1827,3277.03,21.64,428.9,12.2,0.09,50,50,829.5,901
+Western Ecuador Moist Forests,5300,3237.55,46.08,2013.8,122.8,0.63,50,50,783.6,1044
+Talamancan Montane Forests,8500,1177.7,79.84,1367.5,870.3,0.23,24,50,633.1,746
+Southern Andean Yungas,3500,338.76,26.37,4116.2,1300,0.41,11,50,1196.2,737
+Vogelkop Montane Rain Forests,5500,633.18,47.94,1988.6,1023.9,0.17,17,50,709.6,691
+Japur-Solimoes-Negro Moist Forests,8000,110.5,41.88,25430.2,15869.8,0.14,50,50,1078.3,719
+Pindus Mountains Mixed Forests,4000,1340.81,38.6,1195.3,448.6,0.32,50,50,921.9,713
+Oaxacan Montane Forests,3200,8349.74,36.04,551.7,14.1,0.27,50,50,518.3,832
+Tarim Basin Deciduous Forests And Steppe,600,2670.21,46.82,0,0,0,50,1,0.1,600
+Guianan Highlands Moist Forests,8000,28.08,47.24,13926.4,9445.5,0.11,1,50,154.1,605
+Changbai Mountains Mixed Forests,2500,874.2,18.56,4429.5,131.7,0.14,50,50,707.8,783
+Coolgardie Woodlands,1800,15.24,19.59,654.7,92.1,1.79,1,21,13.6,626
+Bolivian Yungas,6000,152.88,40.28,7331.4,4307.3,0.62,19,50,501.8,632
+Jamaican Moist Forests,2800,6215.06,31.68,539.3,97.1,0.37,50,50,1450.6,746
+Fiji Tropical Moist Forests,1450,2115.37,14.73,924.4,35.8,0.07,50,50,1032.5,667
+Meghalaya Subtropical Forests,3000,3681.59,26.24,1951.9,10.3,0.63,50,50,238.9,672
+Helanshan Montane Conifer Forests,700,5761.29,18.13,8.6,0,0.02,50,50,10.2,571
+East Afghan Montane Conifer Forests,1300,307.74,33.63,8.6,0.7,0,1,50,2.9,505
+Miskito Pine Forests,1800,241.03,19.11,740.9,138.1,0.49,7,50,189.1,525
+Lesser Sundas Deciduous Forests,2500,1813.01,21.85,1960.8,153.6,0.27,50,50,918.6,696
+Esperance Mallee,2900,160.86,30.19,818.3,315.4,6.17,1,50,204.8,689
+Eastern Taiga Shield,1140,10.21,6.24,20328.8,1676.7,0.21,6,50,236.9,451
+Central Anatolian Steppe And Woodlands,2000,9940.08,35.15,59.6,0.1,0.12,50,50,20.1,544
+Middle Rockies - Blue Mountains,2373,259.3,16.51,6128.8,1170.7,1.43,35,50,685.2,614
+East Deccan Dry-Evergreen Forests,1200,38208.02,25.08,25.1,0.2,0.15,50,50,194.3,545
+Pernambuco Coastal Forests,3000,7765.48,35.07,458.3,38.9,0.55,50,50,589.9,614
+North Western Ghats Montane Rain Forests,2800,3046,28.56,905.9,199.3,0.11,50,50,895.2,595
+Purus-Madeira Moist Forests,5000,46.63,28.8,15784.3,10100.1,0.84,22,50,237.7,453
+Maputaland Coastal Forest Mosaic,2700,2559.73,29.43,650.1,124.4,0.55,50,50,434.9,529
+Hudson Plains,925,8.67,5.52,13175.5,1153.9,0.23,15,50,121.9,358
+Montane Fynbos And Renosterveld,6300,2128.76,76.71,373.7,275.1,3.41,5,50,405.5,504
+Comoros Forests,1500,3202.11,22.98,118.6,36.4,0.32,13,50,323.9,321
+Vanuatu Rain Forests,950,407.31,9.5,998.6,38.8,0.06,50,50,158.2,391
+Qilian Mountains Conifer Forests,1500,1812.8,24.02,94.9,0,0.03,50,50,0.4,354
+Sierra De Los Tuxtlas,2750,9427.4,40.43,145.5,77.4,0.88,14,50,810.2,347
+North Western Ghats Moist Deciduous Forests,2300,5278.78,27.2,432.4,71.5,0.07,50,50,511.9,442
+Crete Mediterranean Forests,1600,5652.58,28.28,58,21,0.37,7,50,267.5,302
+Northeast China Plain Deciduous Forests,1800,12511.72,21.79,384.4,0.5,0.13,50,50,59.1,374
+Myanmar Coastal Rain Forests,2200,1292.4,18.1,2653.7,22.1,0.65,50,50,83.6,354
+Western Taiga Shield,797,20.35,5.01,10174.3,952.1,1.27,20,50,184.1,308
+Santa Marta Montane Forests,1600,190.52,19.83,342,150.1,0.36,1,50,46.7,250
+Guianan Piedmont And Lowland Moist Forests,5000,43.51,27.17,21108.7,16606.9,0.38,11,50,246.6,244
+Nicobar Islands Rain Forests,1379,822.95,21.53,107.8,44.7,0.52,7,50,68.1,231
+Cordillera Oriental Montane Forests,5500,1040.89,40.53,4600.2,1486.6,0.36,50,50,413.6,352
+Naracoorte Woodlands,1500,498.71,20.83,193.8,82.5,5.72,3,50,135,321
+Sierra Madre De Chiapas Moist Forests,4100,9485.69,45.38,602.3,159.3,0.53,50,50,553.4,327
+Kayah-Karen Montane Rain Forests,4000,377.52,26.94,7217.6,2520.4,0.53,50,50,337.1,328
+Kamchatka-Kurile Taiga,500,36.13,5.13,881.6,68.6,0.07,5,50,35.7,200
+Maldives-Lakshadweep-Chagos Archipelago Tropical Moist Forests,380,1097.92,9.09,12.7,0,0.14,50,50,0.8,216
+Mount Lofty Woodlands,2000,503,31.29,106.6,65.3,4.95,1,50,47.2,270
+Balsas Dry Forests,4300,1610.85,43.71,921,95.6,0.06,50,50,60.2,306
+Iberian Conifer Forests,3200,2041.27,36.07,549.8,395.7,1.13,12,50,426.7,226
+Caspian Hyrcanian Mixed Forests,2000,3111.41,19.07,1268.7,233.9,0.02,50,50,586.6,276
+Sumba Deciduous Forests,900,1207.76,11.51,292.4,67.7,0.31,50,50,192.2,223
+Boreal Cordillera,1246,50.28,6.96,18364.4,2141.9,0.38,50,50,171.7,246
+Hispaniolan Pine Forests,2200,1876.66,24.88,540.5,292.6,1.2,37,50,270.9,249
+Maranhao Babau Forests,3200,911.21,22.12,6334.8,977.1,2.04,46,50,361.8,241
+Central Deccan Plateau Dry Deciduous Forests,1800,2957.4,20.27,552.4,49.1,0.1,50,50,132.5,236
+Willamette Valley - Puget Trough - Georgia Basin: Temperate Broadleaf And Mixed Forests,2487,59358.21,29.5,425.6,9.1,1.46,50,50,463,221
+Luang Prabang Montane Rain Forests,3800,385.23,28.84,3968.7,1043.4,0.97,50,50,108.9,217
+Sundarbans Freshwater Swamp Forests,800,79329.39,15.59,35.6,0.1,0.01,50,50,59.8,180
+Jarrah-Karri Forest And Shrublands,2200,908.44,26.17,419.8,235.6,2.78,17,50,180.2,285
+Nujiang Langcang Gorge Alpine Conifer And Mixed Forests,3500,538.63,31.06,1817.3,534.6,0.12,50,50,81.2,222
+Sulu Archipelago Rain Forests,1400,11496.07,20.26,157.5,0.2,0.47,50,50,8.1,180
+Cardamom Mountains Rain Forests,3000,1061.54,25.46,2271.6,1406,2.57,24,50,386.6,205
+Eyre And York Mallee,2000,3289.57,29.15,151.9,87.2,1.04,46,50,117.7,199
+Yap Tropical Dry Forests,120,1797.59,3.45,5.1,0,0.07,1,50,11.1,120
+Eastern Himalayan Broadleaf Forests,4500,1552.67,32.03,5473.3,1187.7,0.19,50,50,324.4,185
+Mediterranean Conifer And Mixed Forests,2300,8272.6,28.55,339.3,77.5,0.57,50,50,229.2,175
+Tian Shan Montane Conifer Forests,1500,1858.61,19.77,251.3,60.2,0.03,50,50,63.4,168
+Zagros Mountains Forest Steppe,1800,6694.7,36.5,29.2,1.6,0.03,50,50,6.6,160
+Cape Verde Islands Dry Forests,257,8374.16,7.74,4,0.4,0.08,11,50,37.3,99
+South Sakhalin-Kurile Mixed Forests,1000,1667.84,10.61,743.4,185.1,0.35,50,50,246.4,144
+Corsican Montane Broadleaf And Mixed Forests,1800,2424.58,25.05,191.4,142.2,0.77,21,50,109.7,110
+Northeast Siberian Taiga,800,36.78,4.39,20074.6,2649.9,0.39,50,50,114.5,133
+Mediterranean Acacia-Argania Dry Woodlands And Succulent Thickets,1600,4385.66,38.82,11.9,8.9,0.32,5,50,16.5,93
+Pata Valley Dry Forests,900,3082.79,16.02,55.9,0,0.39,50,50,0.3,102
+Cayos Miskitos-San Andrs & Providencia Moist Forests,350,61095.12,10.84,3.5,1,0.71,13,50,195.2,80
+Bermuda Subtropical Conifer Forests,167,354415.56,9.51,0.2,0,0.04,11,50,66.8,71
+Sao Tome And Principe Moist Lowland Forests,950,328.98,23.97,9.8,7.3,0.13,1,50,1,56
+Cyprus Mediterranean Forests,1500,3790.77,25.07,76.7,63.9,0.89,4,50,67.6,60
+Richmond Temperate Forests,1000,1106.81,11.27,550.8,345.4,2.45,26,50,88.6,62
+South Island Temperate Forests,650,408.44,8.26,301.6,177.3,1.6,34,50,24.4,55
+Nelson Coast Temperate Forests,1300,255.02,12.85,1061.1,935.4,1.52,7,50,48.8,38
+Cuban Moist Forests,3500,4080.58,34.56,1065.7,338.5,0.94,50,50,65.1,45
+Sierra De La Laguna Pine-Oak Forests,800,33.13,17.29,21.2,18.7,0.2,1,50,0.1,21
+Borneo Montane Rain Forests,4000,523.91,25.01,10467.1,2462.3,0.31,50,50,40.2,33
+Queensland Tropical Rain Forests,4800,1307.36,43.52,1631.3,1078.1,0.47,50,50,28.8,30
+Trans-Baikal Conifer Forests,1000,65.36,7.02,5874.4,1084,1.3,50,50,8.7,28
+Westland Temperate Forests,700,160.71,8.73,331.3,296.4,1.22,7,50,8.2,18
+Veracruz Moist Forests,6000,8222.09,52.24,1998.4,280.4,0.9,50,50,23.6,10
+Interior Alaska Taiga,810,126.59,5.12,9875.5,2170.7,1.16,50,50,15.3,11
+Hawaiian High Islands: Hawaii Tropical Dry Forests,659,77693.41,12.17,46.5,5.7,0.26,50,50,15.2,5
+Fiordland Temperate Forests,750,4.24,8.17,652.1,650.9,14.27,1,8,0,1
+Banda Sea Islands Moist Deciduous Forests,1200,292.93,13.8,496.4,95.4,0.48,50,50,0,0
+Biak-Numfoor Rain Forests,1500,3132.67,20.22,224.7,44.4,0.34,50,50,0,0
+Buru Rain Forests,1700,192.32,18.64,630.8,6,0.32,50,50,0,0
+Central Range Montane Rain Forests,7500,1405.99,43.73,14838.7,2194.8,0.11,50,50,0,0
+Halmahera Rain Forests,2000,496.84,17.11,2179.6,193.2,0.49,50,50,0,0
+Japen Rain Forests,1500,4573.68,20.33,218.8,107.6,0.21,50,50,0,0
+New Britain-New Ireland Lowland Rain Forests,2700,367.81,21.87,2866.6,74.9,0.63,50,50,0,0
+Northern New Guinea Lowland Rain And Freshwater Swamp Forests,4400,366.97,27.13,11228.1,1403,0.2,50,50,0,0
+Northern New Guinea Montane Rain Forests,3000,689.95,25.7,2167,319.8,0.09,50,50,0,0
+Seram Rain Forests,2100,573.8,19.12,1596.6,184.7,0.39,50,50,0,0
+Southern New Guinea Freshwater Swamp Forests,2100,192.16,14.01,7567.9,464.4,0.14,50,50,0,0
+Southern New Guinea Lowland Rain Forests,4000,573.41,24.8,10925.7,573.8,0.15,50,50,0,0
+Sulawesi Lowland Rain Forests,3900,3453.63,26.69,6657.3,589.8,1.15,50,50,0,0
+Sulawesi Montane Rain Forests,2200,548.28,15.34,6074.5,960.7,0.41,50,50,0,0
+Trobriand Islands Rain Forests,2800,528.86,35.66,298.3,21.7,0.51,50,50,0,0
+Vogelkop-Aru Lowland Rain Forests,3500,1003.89,23.93,6698.7,615.4,0.2,50,50,0,0
+Timor And Wetar Deciduous Forests,1600,1024.06,15.44,1194.1,200.6,0.32,50,50,0,0
+Eastern Australian Temperate Forests,3700,6399.37,25.23,6780.9,2844.9,0.52,50,50,0,0
+North Island Temperate Forests,1200,1899.24,9.64,2987.2,1338.3,1.85,50,50,0,0
+Northland Temperate Kauri Forests,850,6809.61,8.87,808.4,264.9,1.58,50,50,0,0
+Rakiura Island Temperate Forests,570,26.43,8.74,117.8,109.6,0.04,50,50,0,0
+Southeast Australia Temperate Forests,2400,2218.32,16.95,5699.5,2150,1,50,50,0,0
+Tasmanian Central Highland Forests,700,535.45,7.95,530.5,356.2,1.29,50,50,0,0
+Tasmanian Temperate Forests,600,1446.6,5.85,1136.9,354.6,1.49,50,50,0,0
+Tasmanian Temperate Rain Forests,800,348.08,6.98,1971.8,1426.9,2.4,42,50,0,0
+Swan Coastal Plain Scrub and Woodlands,2300,53401.29,40.99,55.6,15.2,6.76,15,50,0,0
+Murray-Darling Woodlands And Mallee,1100,302.32,14.8,227.1,127.5,6.31,16,50,0,0
+Southwest Australia Savanna,1900,748.19,28.44,133.1,45.4,2.49,41,50,0,0
+Southwest Australia Woodlands,2000,1544.84,19.92,1020.7,309.6,1.67,50,50,0,0
+Albertine Rift Montane Forests,3500,1530.73,25.72,4667.8,1228,0.68,50,50,0,0
+Atlantic Equatorial Coastal Forests,6000,936.98,34.79,15257.4,3890.3,0.27,50,50,0,0
+Cameroonian Highlands Forests,3300,1601.75,30.43,1499.3,196.6,0.14,50,50,0,0
+Cross-Niger Transition Forests,2100,48554.77,24.98,420.3,13.8,0.65,50,50,0,0
+Cross-Sanaga-Bioko Coastal Forests,4000,1872.24,31.94,3082.5,742,0.38,50,50,0,0
+East African Montane Forests,4000,3804.38,35.56,1800.3,926,1.05,50,50,0,0
+Eastern Arc Forests,3200,2195.99,33.83,757.4,232.7,0.88,50,50,0,0
+Eastern Congolian Swamp Forests,2000,166.9,13.32,7624.1,1768.2,0.65,50,50,0,0
+Eastern Guinean Forests,3200,3576.38,21.8,6817.6,1729,1.61,50,50,0,0
+Ethiopian Montane Forests,4000,1440.81,30.5,3882.5,927.3,0.21,50,50,0,0
+Guinean Montane Forests,2700,719.87,27.58,898.5,214.5,1.18,50,50,0,0
+Knysna-Amatole Montane Forests,1000,6539.73,15.43,114.2,90.6,6.41,16,50,0,0
+Kwazulu-Cape Coastal Forest Mosaic,2000,19467.18,23.15,481.4,26.1,0.72,50,50,0,0
+Madagascar Subhumid Forests,3200,534.47,25.08,3380.3,733.5,0.79,50,50,0,0
+Mascarene Forests,950,47727.41,13.46,174.9,97.9,0.39,50,50,0,0
+Mount Cameroon And Bioko Montane Forests,3300,5767.69,55.98,71.2,47.7,0.52,50,50,0,0
+Niger Delta Swamp Forests,1500,24412.56,16.83,562.6,52,0.32,50,50,0,0
+Nigerian Lowland Forests,3000,21159.59,25.76,2144.2,404.7,0.92,50,50,0,0
+Northeastern Congolian Lowland Forests,3600,91.3,16.83,44791.7,5622.7,0.5,50,50,0,0
+Northern Zanzibar-Inhambane Coastal Forest Mosaic,3300,2267.26,27.5,2486.4,666.2,1,50,50,0,0
+Northwestern Congolian Lowland Forests,4100,267.68,19.98,36414,5865.2,0.16,50,50,0,0
+Southern Zanzibar-Inhambane Coastal Forest Mosaic,2800,343.04,20.99,4221.3,640.3,1.09,50,50,0,0
+Western Congolian Swamp Forests,2100,216.93,13.19,10216,2037.4,0.31,50,50,0,0
+Western Guinean Lowland Forests,3300,894.06,20.89,9833.1,1731.4,1.51,50,50,0,0
+Madagascar Dry Deciduous Forests,2100,286.43,17.87,2242.4,277.3,0.84,50,50,0,0
+Zambezian Cryptosepalum Dry Forests,1300,153.76,12.56,1187.6,325.4,0.39,50,50,0,0
+Albany Thickets,1200,4584.15,17.28,161.4,49.8,0.29,50,50,0,0
+Lowland Fynbos And Renosterveld,3000,13553.64,39.16,263.8,164.2,3.52,29,50,0,0
+Borneo Lowland Rain Forests,10000,2836.12,51.26,28248,1827,1.68,50,50,0,0
+Borneo Peat Swamp Forests,2500,5720.51,19.88,3141.4,300.2,3.84,27,50,0,0
+Brahmaputra Valley Semi-Evergreen Forests,2500,9008.31,25.38,926.5,82.8,0.73,50,50,0,0
+Chao Phraya Freshwater Swamp Forests,1100,135121.25,16.93,115.8,1.5,0.3,50,50,0,0
+Chao Phraya Lowland Moist Deciduous Forests,2000,30955.94,25.16,317.6,155.2,1.13,50,50,0,0
+Eastern Highlands Moist Deciduous Forests,1600,1777.19,12.01,4202,500.5,0.18,50,50,0,0
+Eastern Java-Bali Montane Rain Forests,1500,14944.68,15.29,908.5,93.9,0.22,50,50,0,0
+Eastern Java-Bali Rain Forests,2900,53401.84,28.27,1135.2,95.9,0.29,50,50,0,0
+Greater Negros-Panay Rain Forests,3000,13878.6,29.85,1025.5,165.5,0.28,50,50,0,0
+Himalayan Subtropical Broadleaf Forests,1800,2326.7,16.75,1434.1,264.5,0.06,50,50,0,0
+Irrawaddy Freshwater Swamp Forests,1000,18021.89,19.17,38.7,0.3,0.18,50,50,0,0
+Irrawaddy Moist Deciduous Forests,1800,556.86,13.83,3739.7,183.2,0.36,50,50,0,0
+Jian Nan Subtropical Evergreen Forests,5500,8338,28.49,26821.5,159.9,0.75,50,50,0,0
+Lower Gangetic Plains Moist Deciduous Forests,3500,22179.15,34.54,1068.5,74.5,0.67,50,50,0,0
+Luzon Montane Rain Forests,1500,598.51,16.35,650.1,320.6,0.32,50,50,0,0
+Luzon Rain Forests,5000,11017.61,37.72,4093.6,696.5,0.37,50,50,0,0
+Malabar Coast Moist Forests,1500,83655.86,15.67,804.7,17,0.16,50,50,0,0
+Mentawai Islands Rain Forests,1500,665.34,17.05,527.1,174.7,0.34,50,50,0,0
+Mindanao Montane Rain Forests,2000,2441.31,19.17,1235.2,306.6,0.32,50,50,0,0
+Mindanao-Eastern Visayas Rain Forests,4300,7802.84,30.64,5445.4,627.9,0.55,50,50,0,0
+Mindoro Rain Forests,2500,6260.7,29.01,475,64.3,0.43,50,50,0,0
+Mizoram-Manipur-Kachin Rain Forests,3800,1055.76,24.65,8705.8,568.7,0.5,50,50,0,0
+Northern Annamites Rain Forests,3000,385.8,23.91,3109.6,1242.2,1.32,50,50,0,0
+Northern Indochina Subtropical Forests,7000,1161,38.64,19509.1,1835.8,0.81,50,50,0,0
+Northern Khorat Plateau Moist Deciduous Forests,1500,1999.11,20.44,212.7,42,3.07,33,50,0,0
+Northern Thailand-Laos Moist Deciduous Forests,2300,642.13,19.7,2168.2,648.6,0.84,50,50,0,0
+Northern Triangle Subtropical Forests,3500,147.13,26.01,4414.3,1656.8,0.44,50,50,0,0
+Northern Vietnam Lowland Rain Forests,2800,2483.68,32.73,457.9,179.4,3.54,29,50,0,0
+Palawan Rain Forests,2700,3466.97,27.64,888.7,746.2,4.67,22,50,0,0
+Peninsular Malaysian Montane Rain Forests,3200,1275.05,29.44,1517.6,494.2,0.4,50,50,0,0
+Peninsular Malaysian Peat Swamp Forests,1100,7383.93,15.47,182,2.5,3.54,29,50,0,0
+Peninsular Malaysian Rain Forests,7000,33146.59,48.7,6134.4,932.5,3.18,32,50,0,0
+Red River Freshwater Swamp Forests,800,33811.37,17.99,17.4,2.8,1.47,50,50,0,0
+South China-Vietnam Subtropical Evergreen Forests,6500,21180.99,46.73,5206.4,170.3,1.37,50,50,0,0
+South Western Ghats Moist Deciduous Forests,2300,14166.55,24.46,734.6,282.6,0.19,50,50,0,0
+South Western Ghats Montane Rain Forests,3300,10778.75,31.35,1292.6,374.9,0.15,50,50,0,0
+Southern Annamites Montane Rain Forests,4000,751.2,31.9,3101.8,992.8,1.1,50,50,0,0
+Southwest Borneo Freshwater Swamp Forests,1400,4335.79,12.65,1659.8,339.2,3.28,31,50,0,0
+Sri Lanka Lowland Rain Forests,2000,66317.51,20.75,831.4,130.8,0.23,50,50,0,0
+Sri Lanka Montane Rain Forests,2200,27902.28,30.6,192.2,70.2,0.29,50,50,0,0
+Sumatran Freshwater Swamp Forests,1600,30004.36,18.14,534.5,30.5,5.26,19,50,0,0
+Sumatran Lowland Rain Forests,7500,9401,45.2,12578.3,1444.4,2.87,35,50,0,0
+Sumatran Montane Rain Forests,3500,3316.34,24.77,5629.7,2083.9,0.54,50,50,0,0
+Sumatran Peat Swamp Forests,2000,7751.08,15.89,3159.9,483.8,6.46,16,50,0,0
+Sundaland Heath Forests,1600,5709.72,12.26,3792,548.3,3.44,30,50,0,0
+Tenasserim-South Thailand Semi-Evergreen Rain Forests,4000,4087.21,28.34,5605.9,1739.8,1.5,50,50,0,0
+Tonle Sap Freshwater Swamp Forests,800,4410.95,9.21,495.4,194.1,0.66,50,50,0,0
+Tonle Sap-Mekong Peat Swamp Forests,700,8607.82,10.12,158.3,25.3,0.9,50,50,0,0
+Upper Gangetic Plains Moist Deciduous Forests,2100,14011.39,25.89,350.8,57.1,0.06,50,50,0,0
+Western Java Montane Rain Forests,2000,28132.52,18.42,1509.2,172.1,0.14,50,50,0,0
+Western Java Rain Forests,3500,48097.1,32.9,1361.8,68.9,0.34,50,50,0,0
+Nansei Islands Subtropical Evergreen Forests,2000,13475.44,27.17,216,60.3,0.26,50,50,0,0
+South Taiwan Monsoon Rain Forests,2700,15803.98,40.61,130,25,0.25,50,50,0,0
+Taiwan Subtropical Evergreen Forests,3000,32296.86,26.51,1856.5,563.3,0.11,50,50,0,0
+Central Indochina Dry Forests,3000,1507.12,22.85,3903.4,1416.9,1.34,50,50,0,0
+Chhota-Nagpur Dry Deciduous Forests,1200,4700.38,13.99,463.8,83.5,0.04,50,50,0,0
+Irrawaddy Dry Forests,1000,1403.44,13.55,219.3,2.2,1.13,50,50,0,0
+Khathiar-Gir Dry Deciduous Forests,1400,16694.78,26.83,38.7,6.5,0.04,50,50,0,0
+Narmada Valley Dry Deciduous Forests,1000,4034.6,12.8,290.7,61.7,0.03,50,50,0,0
+Northern Dry Deciduous Forests,1000,2238.93,11.79,439.3,18.3,0.15,50,50,0,0
+South Deccan Plateau Dry Deciduous Forests,2000,4557.84,24.27,379.9,24.9,0.06,50,50,0,0
+Southeastern Indochina Dry Evergreen Forests,4000,2669.18,29.46,4617.7,2083.1,3.58,28,50,0,0
+Southern Vietnam Lowland Dry Forests,1700,2733.99,16.79,1065,125.9,2.2,46,50,0,0
+Sri Lanka Dry-Zone Dry Evergreen Forests,1200,13051.13,10.45,2001,1075.1,0.56,50,50,0,0
+Himalayan Subtropical Pine Forests,1000,5782.96,8.42,2366.1,119.3,0.03,50,50,0,0
+Luzon Tropical Pine Forests,1300,3902.08,14.94,499.1,86.7,0.11,50,50,0,0
+Northeast India-Myanmar Pine Forests,1000,3806.53,11.4,519.7,0.2,0.7,50,50,0,0
+Sumatran Tropical Pine Forests,1000,192.81,13.49,223.5,98.4,0.83,50,50,0,0
+Northern Triangle Temperate Forests,2500,404.73,25.55,896.4,381.2,0.26,50,50,0,0
+Western Himalayan Broadleaf Forests,1200,4788.28,11.06,1501,82.6,0.02,50,50,0,0
+Eastern Himalayan Subalpine Conifer Forests,2000,445.96,18.76,1375.4,552.5,0.04,50,50,0,0
+Western Himalayan Subalpine Conifer Forests,1000,1785.59,10.58,754.8,82.6,0.05,50,50,0,0
+Sierra Madre Oriental Pine-Oak Forests,3300,1564.19,29.54,1739.4,608.8,0.13,50,50,0,0
+Central Appalachian Forest,1883,14117.24,13.15,6019,380,0.2,50,50,0,0
+Cumberlands And Southern Ridge And Valley,2398,16469.76,16.02,7511.1,309.8,0.78,50,50,0,0
+Great Lakes,2332,16432.77,13.47,15546.1,2137.5,0.3,50,50,0,0
+High Allegheny Plateau,1553,11408.63,11.31,4875.5,241.4,0.1,50,50,0,0
+Interior Low Plateau,1228,14967.67,8.35,6891.9,389.7,0.28,50,50,0,0
+Lower New England / Northern Piedmont,1381,99162.53,9.73,5774.5,246.5,0.2,50,50,0,0
+Mississippi River Alluvial Plain,1033,6857.79,8.48,2688.7,470.5,0.58,50,50,0,0
+North Atlantic Coast,1468,184720.42,13.75,1386.4,250.5,0.24,50,50,0,0
+North Central Tillplain,1496,48984.21,13.22,1856.2,44.7,0.05,50,50,0,0
+Northern Appalachian / Acadian,1695,3242.67,9.12,22133.9,2503.1,0.86,50,50,0,0
+Ouachita Mountains,1743,7744.58,14.84,2236.5,628.1,2.01,50,50,0,0
+Ozarks,3363,8182.44,22.85,6901.2,488.5,0.38,50,50,0,0
+Piedmont,2243,51784.87,14.88,7779.8,147.1,1.83,50,50,0,0
+Prairie-Forest Border,1420,25230.99,11.48,2889.9,190.7,0.15,50,50,0,0
+Southern Blue Ridge,1459,10632.59,11.79,2904,435.2,0.24,50,50,0,0
+St. Lawrence - Champlain Valley,1067,25079.39,9.16,2144.6,43,0.22,50,50,0,0
+Arizona-New Mexico Mountains,660,901.36,6.18,1390,203,0.75,50,50,0,0
+Black Hills,740,2497.58,9.79,247.1,10.6,2.61,39,50,0,0
+California North Coast,2204,3802.9,20.15,1563.9,220.7,0.84,50,50,0,0
+Canadian Rocky Mountains,632,633,3.75,13627.6,2737,0.96,50,50,0,0
+East Cascades - Modoc Plateau,1325,1006.54,11.59,1956.3,280.4,1.49,50,50,0,0
+East Gulf Coastal Plain,1328,14676.08,9.07,6746.8,321.6,3.04,33,50,0,0
+Florida Peninsula,1296,54133.27,11.2,2074.8,206.5,1.31,50,50,0,0
+Gulf Of Alaska Mountains And Fjordlands,909,495.95,7.76,2211.6,1061.7,0.07,50,50,0,0
+Klamath Mountains,1109,2251.58,9.17,2592,357.6,1.6,50,50,0,0
+Mid-Atlantic Coastal Plain,1626,24760.63,12.62,3556.2,392.3,2.71,37,50,0,0
+Sierra Nevada,1224,3903.4,10.78,1884.4,425.1,1.3,50,50,0,0
+Montane Cordillera,951,251.8,5.75,12428.2,1229.3,1.54,50,50,0,0
+North Cascades,1012,623.05,7.8,3684.2,824.1,0.42,50,50,0,0
+Pacific Northwest Coast,1043,2047.86,7.62,4792.5,713.9,1.48,50,50,0,0
+Willamette Valley - Puget Trough - Georgia Basin: Temperate Conifer Forests,1488,90820.27,14.08,1320,97.7,1.08,50,50,0,0
+S.E. Alaska - B.C. Coastal Forest And Mountains,1695,312.03,11.01,8638.8,2523,0.12,50,50,0,0
+South Atlantic Coastal Plain,615,24177.78,4.83,3338.5,272.6,4.04,25,50,0,0
+Southern Rocky Mountains,876,1088.81,6.56,4234.3,721.9,0.59,50,50,0,0
+Upper West Gulf Coastal Plain,1355,16438.73,10.18,4168.7,149.1,3.19,32,50,0,0
+Utah-Wyoming Rocky Mountains,1100,409.14,8.77,3098.5,998.3,0.8,50,50,0,0
+West Gulf Coastal Plain,1200,9104.29,10.62,1841.1,210.8,4.53,23,50,0,0
+Boreal Plains,738,290.4,3.66,33106.5,3503.5,0.8,50,50,0,0
+Boreal Shield,407,402.06,1.64,93337.1,8499.3,0.75,50,50,0,0
+Taiga Plains,613,21.77,3.3,22021.3,1766.8,0.49,50,50,0,0
+Cook Inlet Basin,473,5356.49,4.23,1742.6,494,0.2,50,50,0,0
+Alaska Range,720,51.46,5.82,2907.6,1016.4,0.1,50,50,0,0
+California Central Coast,1650,49776.6,17.75,693.5,145.6,1.61,50,50,0,0
+California South Coast,2105,46308.97,26.51,315.9,67.1,3.73,27,50,0,0
+Araucaria Moist Forests,4500,2470.45,29.24,8636.5,671.3,1.05,50,50,0,0
+Atlantic Coast Restingas,1500,8724.35,23.94,96.7,39.9,2.03,50,50,0,0
+Bahia Coastal Forests,5000,2607.25,37.7,4101.8,731.4,1.58,50,50,0,0
+Bahia Interior Forests,6000,3195.96,41.14,6602.2,395.9,0.93,50,50,0,0
+Caatinga Enclaves Moist Forests,1500,6125.54,22.46,132.8,55.8,0.72,50,50,0,0
+Catatumbo Moist Forests,1900,2750.02,18.97,1006.6,359.5,1.97,50,50,0,0
+Cauca Valley Montane Forests,4500,6841.82,39.56,1904,283.4,0.5,50,50,0,0
+Central American Atlantic Moist Forests,4100,1038.96,29.51,5181.2,2868.2,3.24,31,50,0,0
+Central American Montane Forests,3500,3714.61,35.82,890.8,471.6,0.96,50,50,0,0
+Cordillera La Costa Montane Forests,3700,6762.89,37.42,945.6,556.4,0.51,50,50,0,0
+Costa Rican Seasonal Moist Forests,3300,21902.42,37.28,543.5,77,0.41,50,50,0,0
+Eastern Cordillera Real Montane Forests,6500,954.21,43.88,7135.7,1675.5,0.19,50,50,0,0
+Eastern Panamanian Montane Forests,3300,262.92,42.51,282,205,0.47,50,50,0,0
+Gurupa Varze,2500,302.28,30.89,347.1,188.7,1.77,50,50,0,0
+Hispaniolan Moist Forests,3800,10544.24,34.7,1575.1,290.8,0.89,50,50,0,0
+Iquitos Varze,3200,301.06,20.32,9681.3,2436.1,0.54,50,50,0,0
+Isthmian-Atlantic Moist Forests,8000,5977.36,62.15,3534,1502.3,1.62,50,50,0,0
+Isthmian-Pacific Moist Forests,6500,4062.4,60.33,1451.9,250.1,0.66,50,50,0,0
+Leeward Islands Moist Forests,1500,16590.64,26.26,60.8,53.1,1.05,50,50,0,0
+Madeira-Tapajs Moist Forests,6000,97.59,26.96,54607.2,30451.9,1.64,50,50,0,0
+Magdalena Valley Montane Forests,5500,6855.73,38.02,6332.5,1069.1,0.54,50,50,0,0
+Maraj Varze,3500,465.93,25.1,5272.9,3654.3,0.79,50,50,0,0
+Mato Grosso Seasonal Forests,4000,169.76,21.44,22626.9,8449.9,2.28,44,50,0,0
+Monte Alegre Varze,4500,385.03,32.95,4749.6,1309.5,0.47,50,50,0,0
+Napo Moist Forests,7000,282.17,37.38,23038.4,4907.3,0.24,50,50,0,0
+Northeastern Brazil Restingas,1000,877.7,13.71,206.1,26.6,1.48,50,50,0,0
+Northwestern Andean Montane Forests,6500,1859.48,46.01,5629.8,969.8,0.21,50,50,0,0
+Orinoco Delta Swamp Forests,1700,101.48,14.45,2252.7,1217,0.07,50,50,0,0
+Pantanos De Centla,1900,27968.25,23.7,331.3,75.7,0.74,50,50,0,0
+Guianan Freshwater Swamp Forests,700,1716.12,7.9,546.6,64.1,0.19,50,50,0,0
+Alto Paran Atlantic Forests,6500,4135.42,40.93,10104.6,1422.6,1.12,50,50,0,0
+Pernambuco Interior Forests,2500,7917.74,29.83,413.6,23.3,1.09,50,50,0,0
+Peruvian Yungas,6500,500.48,42.71,8161.5,2352.3,0.31,50,50,0,0
+Petn-Veracruz Moist Forests,6500,2621.8,43.27,7648.6,2931.2,2.12,48,50,0,0
+Puerto Rican Moist Forests,1800,90156.04,22.11,357.8,19.4,1.05,50,50,0,0
+Purus Varze,5000,123.85,28.67,16122.4,7206.9,0.23,50,50,0,0
+Rio Negro Campinarana,3000,17.93,19.73,8118,5205.6,0.22,50,50,0,0
+Serra Do Mar Coastal Forests,9000,24137.77,63.57,5689.6,2544.6,0.75,50,50,0,0
+Southwest Amazon Moist Forests,8500,99.83,36.57,67837.6,27080.5,0.37,50,50,0,0
+Tapajs-Xingu Moist Forests,5000,74.63,25.57,28605.5,22647.2,3.03,34,50,0,0
+Pantepui,2900,34.43,21.3,4680.7,3419.7,0.09,50,50,0,0
+Tocantins/Pindare Moist Forests,4500,1324.65,28.6,9635.9,2078.7,3.03,33,50,0,0
+Trinidad And Tobago Moist Forests,2100,19128.25,26.37,320.3,124.8,0.54,50,50,0,0
+Uatuma-Trombetas Moist Forests,6500,87.67,30.68,42685.6,30757.1,0.65,50,50,0,0
+Ucayali Moist Forests,4050,319.47,25.79,9555.4,2303.2,0.94,50,50,0,0
+Venezuelan Andes Montane Forests,4500,3938.33,40.22,1753.1,876.5,0.47,50,50,0,0
+Veracruz Montane Forests,2700,9829.28,33.8,325,18.7,0.28,50,50,0,0
+Windward Islands Moist Forests,1600,11528.06,24.04,130.6,73.1,2.15,47,50,0,0
+Xingu-Tocantins-Araguaia Moist Forests,5000,221.4,28.54,16503.2,7983.3,2.92,35,50,0,0
+Yucatn Moist Forests,1600,3202.28,11.52,5174.6,1435.1,1.18,50,50,0,0
+Apure-Villavicencio Dry Forests,1800,1595.17,15.91,1855.7,307.8,1.15,50,50,0,0
+Atlantic Dry Forests,2000,190.04,15.77,3276.1,432.3,0.89,50,50,0,0
+Bolivian Montane Dry Forests,900,377.15,8.78,1129.4,446.8,0.24,50,50,0,0
+Cauca Valley Dry Forests,1000,16085.52,13.49,223.7,5.2,0.31,50,50,0,0
+Central American Dry Forests,3300,4557.03,29.5,1751.4,249.2,0.75,50,50,0,0
+Dry Chaco,990,176.91,5.36,21456.9,5242.6,1.74,50,50,0,0
+Chiapas Depression Dry Forests,2100,3007.24,27.33,268.1,12.5,0.48,50,50,0,0
+Chiquitano Dry Forests,1200,132.95,7.18,13007.2,3874.9,1.39,50,50,0,0
+Cuban Dry Forests,2500,6357.88,23.69,1308,246.8,0.53,50,50,0,0
+Ecuadorian Dry Forests,1250,2130.97,12.88,861.4,28.8,0.45,50,50,0,0
+Hispaniolan Dry Forests,1500,8231.66,18.75,327.7,118,1.08,50,50,0,0
+Jalisco Dry Forests,1500,2352.42,14.86,1048.6,146.2,0.2,50,50,0,0
+Jamaican Dry Forests,1100,17397.84,17.73,92,20.1,0.76,50,50,0,0
+Lara-Falcn Dry Forests,900,2262.12,9.72,680.9,122.5,0.87,50,50,0,0
+Lesser Antillean Dry Forests,200,41693.91,3.75,43.1,12.8,0.29,50,50,0,0
+Magdalena Valley Dry Forests,1300,4572.51,14.18,648.5,9.2,0.46,50,50,0,0
+Maracaibo Dry Forests,1500,2606.4,16.73,579.4,150.5,1.42,50,50,0,0
+Maran Dry Forests,1400,960.24,17.02,376.5,46.3,0.3,50,50,0,0
+Panamanian Dry Forests,1900,14374.71,30.82,89,5.8,0.44,50,50,0,0
+Puerto Rican Dry Forests,900,55188.45,17.56,35.3,9.8,0.45,50,50,0,0
+Sierra De La Laguna Dry Forests,550,489.33,14.27,8.5,5,0.35,50,50,0,0
+Sinaloan Dry Forests,2100,852.22,17.7,2347.9,247.1,0.1,50,50,0,0
+Sin Valley Dry Forests,1100,1288.22,11.95,659.9,49.5,1.05,50,50,0,0
+Southern Pacific Dry Forests,4000,2405.92,38.55,1203.1,73.5,0.53,50,50,0,0
+Tumbes-Piura Dry Forests,800,2249.46,9.77,367.5,68,0.24,50,50,0,0
+Veracruz Dry Forests,1100,8771.59,17.94,86.8,2.3,0.46,50,50,0,0
+Yucatn Dry Forests,1150,4457.74,9.35,2807.5,318.9,1.14,50,50,0,0
+Bahamian Pine Mosaic,750,4269.27,10.93,152.2,15,0.55,50,50,0,0
+Belizian Pine Forests,1500,469.16,21.83,153.1,58.7,1,50,50,0,0
+Central American Pine-Oak Forests,4900,6634.67,35.46,5036.7,857.8,0.77,50,50,0,0
+Cuban Pine Forests,1500,3921.76,19.7,256.1,38.3,0.94,50,50,0,0
+Sierra Madre De Oaxaca Pine-Oak Forests,3100,2188.5,32.78,756.7,44.5,0.26,50,50,0,0
+Trans-Mexican Volcanic Belt Pine-Oak Forests,4900,6587.24,39.87,2804.3,566.3,0.16,50,50,0,0
+Magellanic Subpolar Forests,450,250.99,3.48,3640.6,1411,0.08,50,50,0,0
+Valdivian Temperate Forests,800,693.93,4.93,11261.4,4569.4,1.15,50,50,0,0
+Hawaiian High Islands: Hawaii Tropical Moist Forests,935,17072.61,10.88,468,66.6,0.16,50,50,0,0
+Palau Tropical Moist Forests,175,3319.73,3.54,29.7,7.3,0.13,50,50,0,0
+Fiji Tropical Dry Forests,500,2324.02,6.09,373.6,11.9,0.35,50,50,0,0
+Guizhou Plateau Broadleaf And Mixed Forests,3500,8568.83,22.47,9170.6,56.1,0.14,50,50,0,0
+Appenine Deciduous Montane Forests,2500,5034.84,26.27,781.1,374.8,0.18,50,50,0,0
+Atlantic Mixed Forests,1900,70244.85,13.3,5954.1,2084.9,0.82,50,50,0,0
+Balkan Mixed Forests,3500,4133.21,25.02,5352.4,1403.6,0.21,50,50,0,0
+Baltic Mixed Forests,1700,20700.93,14.26,2410.6,1220.3,1.29,50,50,0,0
+Cantabrian Mixed Forests,2000,21912.36,16.43,2670,792,1.94,50,50,0,0
+Caucasus Mixed Forests,5000,1811.48,35.55,5501.6,1086.7,0.03,50,50,0,0
+Celtic Broadleaf Forests,1600,52726.37,14.07,1902.1,464.6,1.28,50,50,0,0
+Central European Mixed Forests,2300,11331.54,13.1,16696.5,4820,0.82,50,50,0,0
+Central Korean Deciduous Forests,2000,31298.44,16.2,2868.9,589.3,0.33,50,50,0,0
+Changjiang Plain Evergreen Forests,3000,12359.62,20.47,6755.4,64.4,0.38,50,50,0,0
+Crimean Submediterranean Forest Complex,2600,2274.32,23.96,1505,152.6,0.03,50,50,0,0
+Daba Mountains Evergreen Forests,4500,10679.16,31.08,6360.9,93.7,0.04,50,50,0,0
+Dinaric Mountains Mixed Forests,3700,2217.76,29.9,2903.3,690.8,0.12,50,50,0,0
+East European Forest Steppe,1900,3878.19,11.42,12749,1130.1,0.23,50,50,0,0
+English Lowlands Beech Forests,1300,215890.95,15.57,406.4,212.9,0.3,50,50,0,0
+Euxine-Colchic Broadleaf Forests,3200,7586.96,25.36,3198.6,48.6,0.14,50,50,0,0
+Hokkaido Deciduous Forests,1200,8754.09,11.34,1326.4,97.5,0.26,50,50,0,0
+Huang He Plain Mixed Forests,2800,23444.08,28.8,868.9,6.8,0.05,50,50,0,0
+Madeira Evergreen Forests,760,42485.95,18.75,10.9,6.5,0.66,50,50,0,0
+Manchurian Mixed Forests,2200,1090.26,12.41,17489.1,817,0.23,50,50,0,0
+Nihonkai Evergreen Forests,1700,17142.59,16.29,1236.9,237.4,0.1,50,50,0,0
+Nihonkai Montane Deciduous Forests,2500,5633.1,17.62,5758,1594.7,0.16,50,50,0,0
+North Atlantic Moist Mixed Forests,600,7983.15,8.31,196.2,47.3,1.67,50,50,0,0
+Pannonian Mixed Forests,2700,9868.59,17.92,7756,2886.6,0.44,50,50,0,0
+Po Basin Mixed Forests,1200,74146.12,17.34,158.9,41.7,0.22,50,50,0,0
+Pyrenees Conifer And Mixed Forests,3300,3995.09,31.99,1167.6,670.1,0.17,50,50,0,0
+Qin Ling Mountains Deciduous Forests,3400,3365.99,25.04,4612.1,129.9,0.03,50,50,0,0
+Rodope Montane Mixed Forests,3000,2476.69,26.77,1767.3,1097.5,0.31,50,50,0,0
+Sarmatic Mixed Forests,1800,8592.44,8.82,35401.4,3746.7,0.72,50,50,0,0
+Sichuan Basin Evergreen Broadleaf Forests,3000,52244.03,28.5,1292.7,14.5,0.1,50,50,0,0
+Southern Korea Evergreen Forests,2300,72306.77,26.94,453.9,90.4,0.25,50,50,0,0
+Taiheiyo Evergreen Forests,3000,42546.56,20.29,7064.3,1318.6,0.22,50,50,0,0
+Taiheiyo Montane Deciduous Forests,2700,10985.91,21.84,2888.7,809.5,0.21,50,50,0,0
+Ussuri Broadleaf And Mixed Forests,1800,284.83,10.79,12899.3,1686.1,0.17,50,50,0,0
+Western Siberian Hemiboreal Forests,1200,2347.14,7.84,8427.4,713.4,0.19,50,50,0,0
+Western European Broadleaf Forests,2900,36526.96,16.8,15305.8,6909.6,0.66,50,50,0,0
+Alps Conifer And Mixed Forests,5000,19056.36,34.73,6187.5,1781.2,0.31,50,50,0,0
+Caledon Conifer Forests,500,4361.35,6.37,297.2,118.7,1.59,50,50,0,0
+Carpathian Montane Forests,2700,3857.51,18.81,6093.1,2774.8,0.86,50,50,0,0
+Da Hinggan-Dzhagdy Mountains Conifer Forests,800,123.91,5,10481.6,336,0.6,50,50,0,0
+Elburz Range Forest Steppe,700,619.72,10.3,144.9,32.3,0.01,50,50,0,0
+Hengduan Mountains Subalpine Conifer Forests,3000,1847.75,24.94,2519.6,227.6,0.1,50,50,0,0
+Hokkaido Montane Conifer Forests,1400,932.41,11.18,3073.5,667.4,0.15,50,50,0,0
+Honshu Alpine Conifer Forests,1300,2859.22,13.37,868.2,434.1,0.11,50,50,0,0
+Qionglai-Minshan Conifer Forests,5000,5698.36,39.49,3255.7,329.8,0.1,50,50,0,0
+Sayan Montane Conifer Forests,1200,146.08,6.86,16373.3,3028.2,0.25,50,50,0,0
+Scandinavian Coastal Conifer Forests,600,28566.54,6.61,613.9,20.3,0.1,50,50,0,0
+East Siberian Taiga,1400,79.4,5.14,150440.2,11753.6,0.82,50,50,0,0
+Kamchatka-Kurile Meadows And Sparse Forests,700,287.46,4.89,6019,1031.3,0.05,50,50,0,0
+Okhotsk-Manchurian Taiga,1100,68.07,5.93,21916.5,1922,0.56,50,50,0,0
+Sakhalin Island Taiga,600,1097.66,4.58,3859.6,200.9,0.15,50,50,0,0
+Scandinavian And Russian Taiga,1400,1646.82,5.51,105608.6,7091.4,0.6,50,50,0,0
+Ural Montane Forests And Tundra,1600,465.68,9.7,12241.4,2583,0.22,50,50,0,0
+West Siberian Taiga,900,1084.73,3.86,68630.1,7985.2,0.52,50,50,0,0
+Aegean And Western Turkey Sclerophyllous And Mixed Forests,2500,7853.52,21.6,2076.6,555.8,0.66,50,50,0,0
+Canary Islands Dry Woodlands And Forests,1130,24297.76,20.03,57.1,40.1,0.31,50,50,0,0
+Eastern Mediterranean Conifer-Sclerophyllous-Broadleaf Forests,3200,29185.51,43.68,211,8.4,0.86,50,50,0,0
+Iberian Sclerophyllous And Semi-Deciduous Forests,2500,6141.88,21.45,2153.1,1058.5,1.2,50,50,0,0
+Illyrian Deciduous Forests,2800,8312.28,29.56,762.7,176.9,0.23,50,50,0,0
+Italian Sclerophyllous And Semi-Deciduous Forests,3300,22424.78,27.38,2543.5,740.4,0.36,50,50,0,0
+Mediterranean Dry Woodlands And Steppe,1200,104450.8,23.9,31.9,1.3,0.18,50,50,0,0
+Mediterranean Woodlands And Forests,1500,8968.24,14.7,1105.8,206.4,0.8,50,50,0,0
+Northeastern Spain And Southern France Mediterranean Forests,2800,14846.91,23.67,2316.3,1220.7,0.65,50,50,0,0
+Northwest Iberian Montane Forests,1400,3261.06,13.51,1193.7,535.1,1.92,50,50,0,0
+South Appenine Mixed Montane Forests,2100,5400.36,23.18,610.8,367.2,0.47,50,50,0,0
+Southeastern Iberian Shrubs And Woodlands,400,19132.58,13.21,2.5,2.1,0.9,50,50,0,0
+Southwest Iberian Mediterranean Sclerophyllous And Mixed Forests,2600,17247.34,28,690,292.1,5.32,19,50,0,0
+Tyrrhenian-Adriatic Sclerophyllous And Mixed Forests,3300,16092.09,30.46,1492.4,530.1,0.45,50,50,0,0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
